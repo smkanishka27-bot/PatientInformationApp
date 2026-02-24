@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="illness_types">
+        <item>Fever</item>
+        <item>Cold / Cough</item>
+        <item>Headache</item>
+        <item>Stomach Pain</item>
+        <item>Skin Allergy</item>
+        <item>General Checkup</item>
+    </string-array>
+</resources>
